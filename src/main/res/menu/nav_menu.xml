@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/fragment1"
+        android:title="Fragment1" />
+    <item
+        android:id="@+id/fragment2"
+        android:title="Fragment2" />
+    <item
+        android:id="@+id/fragment3"
+        android:title="Fragment3" />
+    <item
+        android:id="@+id/fragment4"
+        android:title="Fragment4" />
+<!--    <item-->
+<!--        android:id="@+id/fragment5"-->
+<!--        android:title="Fragment5" />-->
+    <item
+        android:id="@+id/new_activity"
+        android:title="Activity 2" />
+    <item
+        android:id="@+id/SharedPreferences"
+        android:title="SharedPreferencesActivity" />
+
+</menu>
